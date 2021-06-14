@@ -1,0 +1,4 @@
+<servicename>:
+  image: <image-name>
+  restart: always
+  command: <country[de/fr]> <cities[City1,City2]> <login-mail[foo@bar]> <password ['supersecretpw']> -z -m -t 10
